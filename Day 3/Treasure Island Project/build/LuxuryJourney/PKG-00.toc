@@ -1,0 +1,100 @@
+('C:\\Users\\igallimore\\PycharmProjects\\100 Days of Code - The Complete '
+ 'Python Pro Bootcamp\\Day 3\\Treasure Island '
+ 'Project\\build\\LuxuryJourney\\LuxuryJourney.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True,
+  'SYMLINK': False},
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   'C:\\Users\\igallimore\\PycharmProjects\\100 Days of Code - The Complete '
+   'Python Pro Bootcamp\\Day 3\\Treasure Island '
+   'Project\\build\\LuxuryJourney\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\igallimore\\PycharmProjects\\100 Days of Code - The Complete '
+   'Python Pro Bootcamp\\Day 3\\Treasure Island '
+   'Project\\build\\LuxuryJourney\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\Users\\igallimore\\PycharmProjects\\100 Days of Code - The Complete '
+   'Python Pro Bootcamp\\Day 3\\Treasure Island '
+   'Project\\build\\LuxuryJourney\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\Users\\igallimore\\PycharmProjects\\100 Days of Code - The Complete '
+   'Python Pro Bootcamp\\Day 3\\Treasure Island '
+   'Project\\build\\LuxuryJourney\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\Users\\igallimore\\PycharmProjects\\100 Days of Code - The Complete '
+   'Python Pro Bootcamp\\Day 3\\Treasure Island '
+   'Project\\build\\LuxuryJourney\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'C:\\Users\\igallimore\\PycharmProjects\\100 Days of Code - The Complete '
+   'Python Pro Bootcamp\\Day 3\\Treasure Island '
+   'Project\\build\\LuxuryJourney\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Users\\igallimore\\PycharmProjects\\100 Days of Code - The Complete '
+   'Python Pro '
+   'Bootcamp\\.idea\\VirtualEnvironment\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\igallimore\\PycharmProjects\\100 Days of Code - The Complete '
+   'Python Pro '
+   'Bootcamp\\.idea\\VirtualEnvironment\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('LuxuryJourney',
+   'C:\\Users\\igallimore\\PycharmProjects\\100 Days of Code - The Complete '
+   'Python Pro Bootcamp\\Day 3\\Treasure Island Project\\LuxuryJourney.py',
+   'PYSOURCE'),
+  ('python313.dll',
+   'C:\\Users\\igallimore\\AppData\\Local\\Programs\\Python\\Python313\\python313.dll',
+   'BINARY'),
+  ('_decimal.pyd',
+   'C:\\Users\\igallimore\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_hashlib.pyd',
+   'C:\\Users\\igallimore\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('select.pyd',
+   'C:\\Users\\igallimore\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_socket.pyd',
+   'C:\\Users\\igallimore\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('unicodedata.pyd',
+   'C:\\Users\\igallimore\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('_lzma.pyd',
+   'C:\\Users\\igallimore\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2.pyd',
+   'C:\\Users\\igallimore\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('VCRUNTIME140.dll',
+   'C:\\Users\\igallimore\\AppData\\Local\\Programs\\Python\\Python313\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('libcrypto-3.dll',
+   'C:\\Users\\igallimore\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\libcrypto-3.dll',
+   'BINARY'),
+  ('base_library.zip',
+   'C:\\Users\\igallimore\\PycharmProjects\\100 Days of Code - The Complete '
+   'Python Pro Bootcamp\\Day 3\\Treasure Island '
+   'Project\\build\\LuxuryJourney\\base_library.zip',
+   'DATA')],
+ 'python313.dll',
+ False,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
