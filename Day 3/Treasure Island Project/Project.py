@@ -20,6 +20,10 @@ print(r'''
 print("Welcome to Luxury  Land!")
 print("Your mission is to find the platinum 1ct diamond studs.")
 
+def outro(name):
+    print (f"Bye, {name}. Take care <3")
+
+name = input ("What is your name?")
 direction = input("right or left?")
 
 if direction == "left":
@@ -29,13 +33,8 @@ if direction == "left":
         print("Yes! You made it to Rodeo Drive.\n You really are enjoying that life of luxury.")
         designer = input("Final choice. What do you pick\n Chanel, The Row or Loewe? ")
         if designer == "Loewe" or designer == "loewe":
-            print("""Yes! You won!!! You get platinum diamond earrings! Enjoy!\n
-        ᐢ⑅ᐢ
-    ꒰ ˶• ༝ •˶꒱
-    ./づ~ ♡
-
-            """
-                  )
+            #print ("loewe")
+            print("Yes! You won!!! You get platinum diamond earrings! Enjoy!")
         elif designer == "The Row" or designer == "the row" or designer == "the Row":
             print("Girl, Mary Kate and Ashley don't want you in there. Better luck next time!\n Try again!")
         elif designer == "Chanel" or designer == "chanel":
@@ -73,4 +72,5 @@ print ("""
 
 """)
 
-exit()
+outro(name)
+
