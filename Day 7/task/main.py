@@ -28,16 +28,17 @@ while not game_over:
     # TODO-4: - If the user has entered a letter they've already guessed, print the letter and let them know.
 
     display = ""
+    if guess in correct_letters:
+        print (f"you already guesses this letter{guess}")
+
 
     for letter in chosen_word:
         if letter == guess:
             display += letter
             correct_letters.append(guess)
         elif letter in correct_letters:
-            print (f"You already guessed this letter {letter}\n Try again!")
             display += letter
         else:
-            print (f"This letter is not in the word: {letter}\n You lose a life!")
             display += "_"
 
     print("Word to guess: " + display)
@@ -47,6 +48,7 @@ while not game_over:
 
     if guess not in chosen_word:
         lives -= 1
+        print(f"This letter is not in the word: {guess}\n You lose a life!")
         print (f"Hey! Be Careful, you have {lives} chances left!")
         if lives == 0:
             game_over = True
